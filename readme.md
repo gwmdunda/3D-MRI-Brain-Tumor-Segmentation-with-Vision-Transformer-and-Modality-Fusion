@@ -48,6 +48,6 @@ python evaluate.py
 Samples will be shown on results/samples folder
 
 ### Model Architecture
-
+![alt text](https://github.com/gwmdunda/3D-MRI-Brain-Tumor-Segmentation-with-Vision-Transformer-and-Modality-Fusion/blob/main/Unetr-fusion.png)
 
 
