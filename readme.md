@@ -50,4 +50,6 @@ Samples will be shown on results/samples folder
 ### Model Architecture
 ![alt text](https://github.com/gwmdunda/3D-MRI-Brain-Tumor-Segmentation-with-Vision-Transformer-and-Modality-Fusion/blob/main/Unetr-fusion.png)
 
-
+### Inference Samples
+<img src="https://github.com/gwmdunda/3D-MRI-Brain-Tumor-Segmentation-with-Vision-Transformer-and-Modality-Fusion/blob/main/sample_1_encfusion.jpg">
+<img src="https://github.com/gwmdunda/3D-MRI-Brain-Tumor-Segmentation-with-Vision-Transformer-and-Modality-Fusion/blob/main/sample_25_encfusion.jpg">
