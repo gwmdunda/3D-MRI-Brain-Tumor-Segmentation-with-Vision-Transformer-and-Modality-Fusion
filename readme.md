@@ -1,3 +1,6 @@
+# 3D MRI Brain Tumor Segmentation With Vision Transformer and Modality Fusion
+
+### Getting Started
 This is the code for the final project ELEC 6910X.
 
 Install the necessary requirements from requirement.txt
@@ -6,7 +9,8 @@ Install the necessary requirements from requirement.txt
 conda create --name <env> --file requirements.txt
 ```
 
-Install Kaggle 2020 dataset at https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
+Install Kaggle 2020 dataset at https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation 
+
 Install Kaggle 2021 dataset at https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1
 
 Modify the dataset directory on config.py if necessary. The extension of the training data is ".nii", while
@@ -42,5 +46,8 @@ python evaluate.py
 ```
 
 Samples will be shown on results/samples folder
+
+### Model Architecture
+![alt text](https://github.com/gwmdunda/3D-MRI-Brain-Tumor-Segmentation-with-Vision-Transformer-and-Modality-Fusion/blob/main/Unetr-fusion.png)
 
 
